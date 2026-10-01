@@ -6,6 +6,6 @@ It contains generated job-data files only. The main application source code rema
 
 The data is consumed by the Blogger frontend at:
 
-`https://careerremotetechjobs-ship-it.github.io/rtdj-job-data/static-data/`
+`https://cdn.jsdelivr.net/gh/careerremotetechjobs-ship-it/rtdj-job-data@main/static-data/`
 
 Do not add application source code, credentials, secrets, or private configuration to this repository.
