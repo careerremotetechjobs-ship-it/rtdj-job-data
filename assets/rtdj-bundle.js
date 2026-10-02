@@ -121,7 +121,7 @@
 })(window);
 (function () {
   'use strict';
-  var DATA_BASE=(window.RTDJ_DATA_BASE_URL||'').replace(/\/$/,'');
+  var DATA_BASE=(window.RTDJ_DATA_BASE_URL||'https://cdn.jsdelivr.net/gh/careerremotetechjobs-ship-it/rtdj-job-data@main/static-data/').replace(/\/$/,'');
   var APP=document.getElementById('rtdj-app'); if(!APP)return;
   var CATS=[['dev','Software Development'],['aiml','AI / ML'],['data','Data'],['design','UI/UX & Design'],['product','Product'],['cloud-devops','Cloud & DevOps'],['cybersecurity','Cybersecurity'],['sales-cs','Sales & Customer Success'],['leadership','Leadership']];
   function esc(v){return String(v==null?'':v).replace(/[&<>"']/g,function(c){return({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'})[c]})}
