@@ -1,0 +1,36 @@
+name: Sync latest Blogger bundle
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'assets/rtdj-bundle-*.js'
+      - '!assets/rtdj-bundle-latest.js'
+      - '!assets/rtdj-bundle-*.map'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Select newest dated bundle and update stable alias
+        shell: bash
+        run: |
+          set -euo pipefail
+          latest="$(find assets -maxdepth 1 -type f -name 'rtdj-bundle-20*.js' ! -name 'rtdj-bundle-latest.js' -printf '%f\n' | sort -V | tail -n 1)"
+          test -n "$latest"
+          cp "assets/$latest" assets/rtdj-bundle-latest.js
+          echo "Synced assets/$latest to assets/rtdj-bundle-latest.js"
+      - name: Commit stable alias
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/rtdj-bundle-latest.js
+          if git diff --cached --quiet; then
+            echo "Stable alias already current."
+          else
+            git commit -m "chore: sync latest Blogger bundle alias"
+            git push
+          fi
