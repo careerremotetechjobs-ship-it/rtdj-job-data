@@ -187,5 +187,28 @@
   function legal(kind){if(kind==='privacy')staticPage('Privacy Policy','<h2>Information we collect</h2><p>The site may use analytics technologies to understand site usage and improve the service. Saved jobs and saved searches may be stored locally in your browser.</p><h2>Third-party links</h2><p>Job applications and external articles may take you to third-party websites. Their privacy policies and terms apply when you leave this site.</p>');else staticPage('Terms of Use','<h2>Job information</h2><p>Job listings can change, close or be removed without notice. Confirm role details, compensation, eligibility and application requirements with the original employer.</p><h2>Use of the site</h2><p>Use the site for lawful job-search and career research purposes. External links are provided for convenience and may be operated independently of this site.</p>')}
   function track(name,p){try{if(typeof gtag==='function')gtag('event',name,p||{})}catch(e){}}
   var path=location.pathname;
-  try{if(path==='/p/jobs.html')jobs();else if(path==='/p/job.html')jobPage();else if(path==='/p/companies.html')companies();else if(path==='/p/company.html')companyPage();else if(path==='/p/salary-insights.html')salaryPage();else if(path==='/p/salary-trends.html')salaryTrends();else if(path==='/p/careers.html')careers();else if(path==='/p/news.html')newsOrCareers('news');else if(path==='/p/saved-jobs.html')savedJobs();else if(path==='/p/saved-searches.html')savedSearches();else if(path==='/p/submit-job.html')submitJob();else if(path==='/p/contact.html')contact();else if(path==='/p/about.html')about();else if(path==='/p/privacy-policy.html')legal('privacy');else if(path==='/p/terms.html')legal('terms');else home()}catch(e){console.error(e);err('Please try again shortly.')}
+  APP.innerHTML='<div class="rtdj-wrap"><div class="rtdj-page-head"><span class="rtdj-eyebrow">Remote Tech &amp; Design Jobs</span><h1>Loading opportunities…</h1><p>Fetching the latest available job data.</p></div></div>';
+  try {
+    var routeResult;
+    if(path==='/p/jobs.html')routeResult=jobs();
+    else if(path==='/p/job.html')routeResult=jobPage();
+    else if(path==='/p/companies.html')routeResult=companies();
+    else if(path==='/p/company.html')routeResult=companyPage();
+    else if(path==='/p/salary-insights.html')routeResult=salaryPage();
+    else if(path==='/p/salary-trends.html')routeResult=salaryTrends();
+    else if(path==='/p/careers.html')routeResult=careers();
+    else if(path==='/p/news.html')routeResult=newsOrCareers('news');
+    else if(path==='/p/saved-jobs.html')routeResult=savedJobs();
+    else if(path==='/p/saved-searches.html')routeResult=savedSearches();
+    else if(path==='/p/submit-job.html')routeResult=submitJob();
+    else if(path==='/p/contact.html')routeResult=contact();
+    else if(path==='/p/about.html')routeResult=about();
+    else if(path==='/p/privacy-policy.html')routeResult=legal('privacy');
+    else if(path==='/p/terms.html')routeResult=legal('terms');
+    else routeResult=home();
+    Promise.resolve(routeResult).catch(function(e){console.error('RTDJ page rendering failed:',e);err('Job data could not be loaded. Please refresh in a moment. If the problem continues, the data feed needs attention.')});
+  } catch(e) {
+    console.error('RTDJ page initialization failed:',e);
+    err('The page could not be initialized. Please refresh in a moment.');
+  }
 })();
