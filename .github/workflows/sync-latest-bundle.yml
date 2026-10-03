@@ -6,27 +6,72 @@ on:
       - 'assets/rtdj-bundle-*.js'
       - '!assets/rtdj-bundle-latest.js'
       - '!assets/rtdj-bundle-*.map'
+      - 'static-data/**'
   workflow_dispatch:
 permissions:
   contents: write
 jobs:
-  sync:
+  validate-and-sync:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Select newest dated bundle and update stable alias
+      - name: Select newest dated bundle
+        id: bundle
         shell: bash
         run: |
           set -euo pipefail
           latest="$(find assets -maxdepth 1 -type f -name 'rtdj-bundle-20*.js' ! -name 'rtdj-bundle-latest.js' -printf '%f\n' | sort -V | tail -n 1)"
           test -n "$latest"
-          cp "assets/$latest" assets/rtdj-bundle-latest.js
-          echo "Synced assets/$latest to assets/rtdj-bundle-latest.js"
+          echo "file=$latest" >> "$GITHUB_OUTPUT"
+      - name: Validate JavaScript bundle
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -s "assets/${{ steps.bundle.outputs.file }}"
+          node --check "assets/${{ steps.bundle.outputs.file }}"
+      - name: Validate job-data manifest and referenced JSON chunks
+        shell: bash
+        run: |
+          set -euo pipefail
+          node <<'NODE'
+          const fs = require('fs');
+          const path = require('path');
+          const root = 'static-data';
+          const manifestPath = path.join(root, 'manifest.json');
+          if (!fs.existsSync(manifestPath)) throw new Error('Missing static-data/manifest.json');
+          const manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf8'));
+          if (!Number.isInteger(manifest.jobCount) || manifest.jobCount < 1) {
+            throw new Error('Manifest jobCount must be a positive integer');
+          }
+          const refs = new Set([
+            ...(manifest.searchChunks || []),
+            ...(manifest.jobsIndex ? [manifest.jobsIndex] : []),
+            ...Object.values(manifest.categoryChunks || {}).flat(),
+            ...Object.values(manifest.fullJobChunks || {}).flat()
+          ]);
+          if (!refs.size) throw new Error('Manifest has no data chunk references');
+          for (const ref of refs) {
+            const target = path.resolve(root, ref);
+            if (!target.startsWith(path.resolve(root) + path.sep)) {
+              throw new Error('Unsafe path in manifest: ' + ref);
+            }
+            if (!fs.existsSync(target)) throw new Error('Missing manifest chunk: ' + ref);
+            if (target.endsWith('.json')) JSON.parse(fs.readFileSync(target, 'utf8'));
+          }
+          console.log(`Validated manifest for ${manifest.jobCount} jobs and ${refs.size} referenced files.`);
+          NODE
+      - name: Update stable bundle alias
+        shell: bash
+        run: |
+          set -euo pipefail
+          cp "assets/${{ steps.bundle.outputs.file }}" assets/rtdj-bundle-latest.js
+          echo "Validated and synced assets/${{ steps.bundle.outputs.file }} to assets/rtdj-bundle-latest.js"
       - name: Commit stable alias
+        shell: bash
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+users.noreply.github.com"
           git add assets/rtdj-bundle-latest.js
           if git diff --cached --quiet; then
             echo "Stable alias already current."
