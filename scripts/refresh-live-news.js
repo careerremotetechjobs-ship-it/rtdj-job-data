@@ -27,7 +27,7 @@ function classify(text, fallback) {
   if (/remote work|work from home|distributed team/.test(s)) return "remote";
   if (/bitcoin|ethereum|crypto|blockchain|web3|token/.test(s)) return "crypto";
   if (/artificial intelligence|\bai\b|llm|openai|chatgpt|robot|machine learning/.test(s)) return "ai";
-  return fallback === "crypto" ? "crypto" : "ai";
+  return fallback === "crypto" ? "crypto" : "tech";
 }
 function parseFeed(xml, feed) {
   const blocks = xml.match(/<(item|entry)(?:\s[^>]*)?>[\s\S]*?<\/\1>/gi) || [];
