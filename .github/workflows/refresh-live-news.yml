@@ -1,0 +1,40 @@
+name: Refresh live news wire
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/refresh-live-news.js"
+      - ".github/workflows/refresh-live-news.yml"
+permissions:
+  contents: write
+concurrency:
+  group: refresh-live-news
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Fetch and validate live news feeds
+        run: |
+          node --check scripts/refresh-live-news.js
+          node scripts/refresh-live-news.js
+          node -e "const d=require('./static-data/live-news.json'); if(!Array.isArray(d.items)) throw Error('live news items missing'); console.log('Validated live news snapshot:', d.items.length)"
+      - name: Publish live news snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add static-data/live-news.json
+          if git diff --cached --quiet; then
+            echo "Live news snapshot unchanged."
+          else
+            git commit -m "chore: refresh live technology news wire"
+            git push
+          fi
