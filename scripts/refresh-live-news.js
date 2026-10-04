@@ -75,7 +75,7 @@ async function main() {
     if (failures.length === FEEDS.length) throw new Error("Every live news feed failed: " + JSON.stringify(failures));
   }
   fs.mkdirSync(path.dirname(OUT), { recursive: true });
-  fs.writeFileSync(OUT, JSON.stringify({ generatedAt: new Date().toISOString(), itemCount: items.length, failedSources: failures, items }, null, 2) + "\\n");
+  fs.writeFileSync(OUT, JSON.stringify({ generatedAt: new Date().toISOString(), itemCount: items.length, failedSources: failures, items }, null, 2) + "\n");
   console.log("Wrote " + items.length + " live headlines; failed sources: " + failures.length);
 }
 main().catch((e) => { console.error(e); process.exitCode = 1; });
