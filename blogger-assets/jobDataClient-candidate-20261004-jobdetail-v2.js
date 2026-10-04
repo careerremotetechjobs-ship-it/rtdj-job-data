@@ -2,10 +2,10 @@
  * Remote Tech & Design Jobs — static data client for Blogger.
  * No framework, no database, no provider API calls from the browser.
  *
- * Usage:
- *   const jobs = await RTDJJobs.loadCategory('dev');
- *   const results = await RTDJJobs.search('motion designer');
- *   const job = await RTDJJobs.getBySlug('example-job-slug');
+ * Cache strategy:
+ * - Revalidate the manifest on each page load so new published data is discovered.
+ * - Pin data-chunk URLs to manifest.generatedAt so CDN/browser caches cannot mix
+ *   an older chunk with a newer manifest.
  */
 (function (global) {
   'use strict';
@@ -15,18 +15,14 @@
   const manifestPromises = new Map();
 
   function normalizeBase(baseUrl) {
-    return String(baseUrl || '').replace(/\/+$/, '');
+    return String(baseUrl || '').replace(/\\/+$/, '');
   }
 
-  function cacheKey(url) {
-    return 'rtdj:v1:' + url;
-  }
-
-  async function fetchJson(url) {
+  async function fetchJson(url, options) {
     if (memory.has(url)) return memory.get(url);
     if (pending.has(url)) return pending.get(url);
 
-    const request = fetch(url, { cache: 'force-cache' })
+    const request = fetch(url, options || { cache: 'force-cache' })
       .then(function (response) {
         if (!response.ok) throw new Error('Job data request failed: ' + response.status);
         return response.json();
@@ -43,39 +39,54 @@
     return request;
   }
 
+  function versionedUrl(baseUrl, path, version) {
+    const url = normalizeBase(baseUrl) + '/' + String(path || '').replace(/^\\/+/, '');
+    if (!version) return url;
+    return url + (url.indexOf('?') === -1 ? '?' : '&') + 'v=' + encodeURIComponent(String(version));
+  }
+
   async function getManifest(baseUrl) {
     const base = normalizeBase(baseUrl);
-    if (!manifestPromises.has(base)) manifestPromises.set(base, fetchJson(base + '/manifest.json'));
+    if (!manifestPromises.has(base)) {
+      // Unique query string plus no-store bypasses old browser/CDN manifest entries.
+      const url = base + '/manifest.json?refresh=' + Date.now();
+      const request = fetchJson(url, { cache: 'no-store' });
+      manifestPromises.set(base, request);
+      request.catch(function () { manifestPromises.delete(base); });
+    }
     return manifestPromises.get(base);
   }
 
-  async function getChunks(baseUrl, paths) {
-    const base = normalizeBase(baseUrl);
+  async function getChunks(baseUrl, paths, version) {
     const unique = Array.from(new Set(paths || []));
     return (await Promise.all(unique.map(function (path) {
-      return fetchJson(base + '/' + path);
+      return fetchJson(versionedUrl(baseUrl, path, version));
     }))).flat();
   }
 
   async function loadSearchIndex(baseUrl) {
     const manifest = await getManifest(baseUrl);
-    return getChunks(baseUrl, manifest.searchChunks || []);
+    return getChunks(baseUrl, manifest.searchChunks || [], manifest.generatedAt);
   }
 
   async function loadCategory(baseUrl, category) {
     const manifest = await getManifest(baseUrl);
     const paths = (manifest.categoryChunks || {})[category] || [];
-    return getChunks(baseUrl, paths);
+    return getChunks(baseUrl, paths, manifest.generatedAt);
   }
 
   async function getBySlug(baseUrl, slug) {
     const manifest = await getManifest(baseUrl);
-    const search = await getChunks(baseUrl, manifest.searchChunks || []);
+    const search = await getChunks(baseUrl, manifest.searchChunks || [], manifest.generatedAt);
     const meta = search.find(function (job) { return job.slug === slug; });
     if (!meta) return null;
     const paths = (manifest.fullJobChunks || {})[meta.category] || [];
-    const results = await Promise.allSettled(paths.map(function (path) { return fetchJson(normalizeBase(baseUrl) + '/' + path); }));
-    const jobs = results.filter(function (result) { return result.status === 'fulfilled' && Array.isArray(result.value); }).flatMap(function (result) { return result.value; });
+    const results = await Promise.allSettled(paths.map(function (path) {
+      return fetchJson(versionedUrl(baseUrl, path, manifest.generatedAt));
+    }));
+    const jobs = results
+      .filter(function (result) { return result.status === 'fulfilled' && Array.isArray(result.value); })
+      .flatMap(function (result) { return result.value; });
     return jobs.find(function (job) { return job.slug === slug; }) || null;
   }
 
@@ -93,7 +104,7 @@
       if (!haystack) continue;
       if (haystack === q) total += weight * 4;
       else if (haystack.includes(q)) total += weight;
-      for (const token of q.split(/\s+/).filter(Boolean)) {
+      for (const token of q.split(/\\s+/).filter(Boolean)) {
         if (haystack.includes(token)) total += weight * 0.25;
       }
     }
