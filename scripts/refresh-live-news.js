@@ -26,7 +26,7 @@ function classify(text, fallback) {
   if (/salary|pay rise|compensation|wage|earnings/.test(s)) return "salary";
   if (/remote work|work from home|distributed team/.test(s)) return "remote";
   if (/bitcoin|ethereum|crypto|blockchain|web3|token/.test(s)) return "crypto";
-  if (/artificial intelligence|\\bai\\b|llm|openai|chatgpt|robot|machine learning/.test(s)) return "ai";
+  if (/artificial intelligence|\bai\b|llm|openai|chatgpt|robot|machine learning/.test(s)) return "ai";
   return fallback === "crypto" ? "crypto" : "ai";
 }
 function parseFeed(xml, feed) {
