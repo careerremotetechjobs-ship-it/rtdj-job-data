@@ -81,13 +81,24 @@
     const meta = search.find(function (job) { return job.slug === slug; });
     if (!meta) return null;
     const paths = (manifest.fullJobChunks || {})[meta.category] || [];
-    const results = await Promise.allSettled(paths.map(function (path) {
-      return fetchJson(versionedUrl(baseUrl, path, manifest.generatedAt));
-    }));
-    const jobs = results
-      .filter(function (result) { return result.status === 'fulfilled' && Array.isArray(result.value); })
-      .flatMap(function (result) { return result.value; });
-    return jobs.find(function (job) { return job.slug === slug; }) || null;
+    for (const path of paths) {
+      const url = versionedUrl(baseUrl, path, manifest.generatedAt);
+      try {
+        // Detail payloads are fetched independently so a failed/stale chunk cannot
+        // silently turn a complete job into a metadata-only page.
+        const response = await fetch(url, { cache: 'no-store' });
+        if (!response.ok) continue;
+        const payload = await response.json();
+        const jobs = Array.isArray(payload) ? payload
+          : Array.isArray(payload.jobs) ? payload.jobs
+          : Array.isArray(payload.items) ? payload.items : [];
+        const match = jobs.find(function (job) { return job.slug === slug || job.id === meta.id; });
+        if (match) return match;
+      } catch (error) {
+        // Continue through remaining full-detail chunks.
+      }
+    }
+    return null;
   }
 
   function score(job, query) {
