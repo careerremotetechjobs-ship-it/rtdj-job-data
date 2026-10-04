@@ -18,7 +18,7 @@ function decode(s = "") {
 function tag(block, name) {
   const re = new RegExp("<" + name + "(?:\\s[^>]*)?>([\\s\\S]*?)</" + name + ">", "i");
   const m = block.match(re);
-  return m ? decode(m[1]).replace(/<[^>]+>/g, " ").replace(/\\s+/g, " ").trim() : "";
+  return m ? decode(m[1]).replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim() : "";
 }
 function classify(text, fallback) {
   const s = text.toLowerCase();
@@ -30,7 +30,7 @@ function classify(text, fallback) {
   return fallback === "crypto" ? "crypto" : "ai";
 }
 function parseFeed(xml, feed) {
-  const blocks = xml.match(/<(item|entry)(?:\\s[^>]*)?>[\\s\\S]*?<\\/\\1>/gi) || [];
+  const blocks = xml.match(/<(item|entry)(?:\s[^>]*)?>[\s\S]*?<\/\1>/gi) || [];
   return blocks.map((block) => {
     const title = tag(block, "title");
     let url = tag(block, "link");
@@ -40,8 +40,8 @@ function parseFeed(xml, feed) {
     }
     const description = tag(block, "description") || tag(block, "summary") || tag(block, "content:encoded");
     const published = tag(block, "pubDate") || tag(block, "published") || tag(block, "updated") || tag(block, "dc:date");
-    if (!title || !/^https?:\\/\\//i.test(url)) return null;
-    const excerpt = description.replace(/<[^>]+>/g, " ").replace(/\\s+/g, " ").trim().slice(0, 240);
+    if (!title || !/^https?:\/\//i.test(url)) return null;
+    const excerpt = description.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim().slice(0, 240);
     const date = published && !Number.isNaN(Date.parse(published)) ? new Date(published).toISOString() : new Date().toISOString();
     return { id: feed.name.toLowerCase().replace(/[^a-z0-9]+/g, "-") + "-" + Buffer.from(url).toString("base64url").slice(0, 18), title, url, excerpt, date, source: feed.name, tagType: classify(title + " " + excerpt, feed.fallback), tag: feed.name };
   }).filter(Boolean);
