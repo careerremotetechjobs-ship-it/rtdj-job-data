@@ -1,0 +1,607 @@
+{
+  "generatedAt": "2026-10-05T05:39:10.796Z",
+  "itemCount": 60,
+  "failedSources": [],
+  "items": [
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "date": "2026-10-05T05:00:00.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Zcash activates NU7 on testnet ahead of November mainnet target",
+      "url": "https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Zcash’s NU7 upgrade is now live on testnet, giving developers several weeks to assess 25-second blocks and other protocol changes before a planned November mainnet activation.",
+      "date": "2026-10-05T03:47:19.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "OKX, NYSE parent file to launch tokenized US stock platform",
+      "url": "https://cointelegraph.com/news/okx-nyse-parent-file-to-launch-tokenized-us-stock-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "The stock trading platform seeks to offer tokenized shares in more than 60 US-listed companies under the SEC’s recently introduced innovation exemption.",
+      "date": "2026-10-05T03:44:09.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Safe investor asks Swiss watchdog to intervene in governance dispute",
+      "url": "https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Greenfield Capital said it sought changes to Safe Ecosystem Foundation’s board for months before turning to the Swiss regulator.",
+      "date": "2026-10-05T03:12:21.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Zcash gets a Washington lobbyist to push crypto policy",
+      "url": "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "The newly registered lobbying operation lists the CLARITY Act and two digital asset tax proposals among the issues it plans to lobby on in Washington.",
+      "date": "2026-10-05T00:35:34.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest",
+      "url": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Roman Storm and the XRP army aren’t happy former SEC boss Jay Clayton is Trump’s new AI czar, Peter Brandt flips bullish and says Bitcoin may reach as high as $600K by 2029.",
+      "date": "2026-10-04T22:31:12.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "the-verge-aHR0cHM6Ly93d3cudG",
+      "title": "The new Fitbit Edge leaks",
+      "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+      "excerpt": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google's rumored fitness",
+      "date": "2026-10-04T21:02:09.000Z",
+      "source": "The Verge",
+      "tagType": "tech",
+      "tag": "The Verge"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "excerpt": "AI slop seems to be overwhelming bug bounty programs.",
+      "date": "2026-10-04T20:31:07.000Z",
+      "source": "TechCrunch",
+      "tagType": "ai",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "excerpt": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "date": "2026-10-04T20:08:34.000Z",
+      "source": "TechCrunch",
+      "tagType": "ai",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "the-verge-aHR0cHM6Ly93d3cudG",
+      "title": "Prick’s theatrical industrial punk is perfect for spooky season",
+      "url": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review",
+      "excerpt": "While deep in the recording process for The Downward Spiral, Trent Reznor lent some of his production talents to old friend Kevin McMahon, from the new wave band Lucky Pierre (which Reznor was briefly a member of). While Reznor is only cred",
+      "date": "2026-10-04T20:00:00.000Z",
+      "source": "The Verge",
+      "tagType": "tech",
+      "tag": "The Verge"
+    },
+    {
+      "id": "the-verge-aHR0cHM6Ly93d3cudG",
+      "title": "The best early October Prime Day deals happening now",
+      "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+      "excerpt": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts",
+      "date": "2026-10-04T17:18:00.000Z",
+      "source": "The Verge",
+      "tagType": "tech",
+      "tag": "The Verge"
+    },
+    {
+      "id": "the-verge-aHR0cHM6Ly93d3cudG",
+      "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+      "excerpt": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the medi",
+      "date": "2026-10-04T16:16:04.000Z",
+      "source": "The Verge",
+      "tagType": "ai",
+      "tag": "The Verge"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "TechCrunch Mobility: Reining in robotaxis",
+      "url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+      "excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "date": "2026-10-04T16:05:00.000Z",
+      "source": "TechCrunch",
+      "tagType": "ai",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "the-verge-aHR0cHM6Ly93d3cudG",
+      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "excerpt": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, th",
+      "date": "2026-10-04T15:21:59.000Z",
+      "source": "The Verge",
+      "tagType": "ai",
+      "tag": "The Verge"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "Trump unveils his new Super Intelligence Force",
+      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "excerpt": "This new task force is Trump's latest response to the debate over AI safety.",
+      "date": "2026-10-04T15:15:10.000Z",
+      "source": "TechCrunch",
+      "tagType": "ai",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "the-verge-aHR0cHM6Ly93d3cudG",
+      "title": "This toolless modular lever-action wallet is the coolest I’ve stuck to my phone",
+      "url": "https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone",
+      "excerpt": "This toolless modular lever-action wallet is the coolest I've stuck to my phone. Remember when I tested the ultra-thin and convenient OhSnap Snap Grip Stand and liked it so much I bought my own? Now, OhSnap has a magnetic lever-action card ",
+      "date": "2026-10-04T15:00:00.000Z",
+      "source": "The Verge",
+      "tagType": "tech",
+      "tag": "The Verge"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Trump taps intel chief Jay Clayton to lead new Super Intelligence Force",
+      "url": "https://cointelegraph.com/news/trump-taps-jay-clayton-to-lead-new-super-intelligence-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "President Donald Trump said US intel chief Clayton will lead the SIF, reporting to the president and Chief of Staff Susie Wiles.",
+      "date": "2026-10-04T13:48:48.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "the-verge-aHR0cHM6Ly93d3cudG",
+      "title": "The AirPods Pro 3 are a fantastic deal at $179",
+      "url": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale",
+      "excerpt": "It’s been a while since we’ve seen a good discount on the Apple AirPods Pro 3, but like the latest iPad Mini and the M5 MacBook Airs, a great one is happening now for October Prime Day. You can snag a pair of the noise-canceling earbuds tha",
+      "date": "2026-10-04T13:00:00.000Z",
+      "source": "The Verge",
+      "tagType": "tech",
+      "tag": "The Verge"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Japan adds Garantex to list of Russia sanctions over Ukraine war",
+      "url": "https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Garantex was previously sanctioned by the US, the EU and other jurisdictions for helping Russian entities evade financial restrictions.",
+      "date": "2026-10-04T12:42:00.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "the-verge-aHR0cHM6Ly93d3cudG",
+      "title": "The MacBook Air M5 is $200 off for the first time in months",
+      "url": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale",
+      "excerpt": "Amazon’s October Prime Day has effectively chopped off Apple’s June price increases. Usually $1,299, the 13-inch MacBook Air with the M5 chip and 512GB of storage is on sale for $1,099 at Amazon. That’s a more palatable price for a machine ",
+      "date": "2026-10-04T12:34:01.000Z",
+      "source": "The Verge",
+      "tagType": "tech",
+      "tag": "The Verge"
+    },
+    {
+      "id": "the-verge-aHR0cHM6Ly93d3cudG",
+      "title": "The iPad Mini is slightly cheaper again during Prime Day",
+      "url": "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale",
+      "excerpt": "Apple bumped up prices on several of its devices in June, and we haven’t seen a good discount on the iPad Mini since. Just ahead of Amazon’s October Prime Big Deals Days, however, both Wi-Fi only and cellular-connected models are $100 off. ",
+      "date": "2026-10-04T12:31:50.000Z",
+      "source": "The Verge",
+      "tagType": "tech",
+      "tag": "The Verge"
+    },
+    {
+      "id": "the-verge-aHR0cHM6Ly93d3cudG",
+      "title": "The forgotten Chromebook that started it all",
+      "url": "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all",
+      "excerpt": "Google didn't even call the first Chromebook a \"Chromebook.\" The Cr-48 had no interesting design and no bright logos - it wasn't even designed to be a product you could buy. Instead, it was a portal to a big new idea about computers. In thi",
+      "date": "2026-10-04T12:00:00.000Z",
+      "source": "The Verge",
+      "tagType": "tech",
+      "tag": "The Verge"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
+      "url": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Efforts will continue to reduce the state’s involvement in Bitcoin-related activities and to strengthen crypto‑asset regulation and governance, the IMF said.",
+      "date": "2026-10-04T09:40:00.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Russia’s Finance Ministry pays wages in digital rubles for first time",
+      "url": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Work on the introduction of the digital ruble to the budget process is being carried out by the Bank of Russia together with the Ministry of Finance.",
+      "date": "2026-10-04T07:18:00.000Z",
+      "source": "Cointelegraph",
+      "tagType": "salary",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+      "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+      "excerpt": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
+      "date": "2026-10-03T19:33:15.000Z",
+      "source": "TechCrunch",
+      "tagType": "tech",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "excerpt": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+      "date": "2026-10-03T18:43:57.000Z",
+      "source": "TechCrunch",
+      "tagType": "tech",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "excerpt": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "date": "2026-10-03T16:30:01.000Z",
+      "source": "TechCrunch",
+      "tagType": "ai",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
+      "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+      "excerpt": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+      "date": "2026-10-03T15:02:01.000Z",
+      "source": "TechCrunch",
+      "tagType": "tech",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "Vessev built an electric ferry that almost flies",
+      "url": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
+      "excerpt": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.",
+      "date": "2026-10-03T14:42:00.000Z",
+      "source": "TechCrunch",
+      "tagType": "tech",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "All the AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "date": "2026-10-03T14:00:00.000Z",
+      "source": "TechCrunch",
+      "tagType": "ai",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "Spotify billionaire’s body scan startup has come to America",
+      "url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
+      "excerpt": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.",
+      "date": "2026-10-03T14:00:00.000Z",
+      "source": "TechCrunch",
+      "tagType": "tech",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "NEAR Intents recovers entire stolen $3.8M after ultimatum to exploiter",
+      "url": "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "The exploiter returned the entire sum to NEAR Intents after being identified and given 48 hours to respond.",
+      "date": "2026-10-03T11:59:10.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Community banks sue OCC over trust bank charters of crypto firms",
+      "url": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Community banking group’s lawsuit claims OCC has overstepped its mandate from Congress.",
+      "date": "2026-10-03T09:28:00.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Trump expected to appoint Jay Clayton as new AI czar: Reports",
+      "url": "https://cointelegraph.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "US intel chief Clayton may be asked to also oversee AI innovation and development along with “self policing” tech CEOs.",
+      "date": "2026-10-03T07:09:00.000Z",
+      "source": "Cointelegraph",
+      "tagType": "ai",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "excerpt": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+      "date": "2026-10-03T00:45:39.000Z",
+      "source": "TechCrunch",
+      "tagType": "tech",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "Sanders introduces bill to ban the federal government from using Flock",
+      "url": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
+      "excerpt": "The proposed legislation would extend to all automotica license plate readers.",
+      "date": "2026-10-03T00:21:57.000Z",
+      "source": "TechCrunch",
+      "tagType": "tech",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "excerpt": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+      "date": "2026-10-02T21:09:14.000Z",
+      "source": "TechCrunch",
+      "tagType": "ai",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO",
+      "url": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Speaking on Cointelegraph’s Chain Reaction, Christian Trummer said MiCA has increased trust in regulated platforms and called for stricter enforcement against noncompliant firms.",
+      "date": "2026-10-02T20:40:47.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "excerpt": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+      "date": "2026-10-02T19:15:51.000Z",
+      "source": "TechCrunch",
+      "tagType": "layoff",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
+      "url": "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "The reported cuts come as Anchorage expands its institutional footprint, including stablecoin issuance and a $100 million investment from Tether.",
+      "date": "2026-10-02T18:41:17.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Blast to wind down Ethereum L2 after costs outpace revenue",
+      "url": "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Once among Ethereum’s largest layer-2 networks by total value locked, Blast is urging users to move their assets to mainnet ahead of the shutdown.",
+      "date": "2026-10-02T18:24:05.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "excerpt": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+      "date": "2026-10-02T18:11:27.000Z",
+      "source": "TechCrunch",
+      "tagType": "ai",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "excerpt": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed ",
+      "date": "2026-10-02T17:48:16.000Z",
+      "source": "TechCrunch",
+      "tagType": "ai",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+      "excerpt": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+      "date": "2026-10-02T17:32:05.000Z",
+      "source": "TechCrunch",
+      "tagType": "ai",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+      "excerpt": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test dummies\" to solve that.",
+      "date": "2026-10-02T17:00:00.000Z",
+      "source": "TechCrunch",
+      "tagType": "ai",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "71% of UK finance leaders expect tokenization to reshape financial services: Lloyds",
+      "url": "https://cointelegraph.com/news/71-percent-uk-finance-leaders-expect-tokenization-reshape-financial-services-lloyds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "A Lloyds survey found that faster payments and settlement are the most significant perceived benefits of tokenization, as the UK builds infrastructure for tokenized finance.",
+      "date": "2026-10-02T16:20:24.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "Paramount and Warner Bros. Discovery to become Skydance",
+      "url": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
+      "excerpt": "The roughly $110 billion deal is expected to close October 6.",
+      "date": "2026-10-02T15:53:50.000Z",
+      "source": "TechCrunch",
+      "tagType": "tech",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Crypto’s billions are back, but the premiums aren’t",
+      "url": "https://cointelegraph.com/news/crypto-biz-kalshi-blockchain-com-crypto-treasury-valuations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Kalshi seeks a $40 billion valuation, while Blockchain.com targets an IPO and crypto treasury companies struggle to maintain their once-high valuations.",
+      "date": "2026-10-02T15:32:53.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Bitcoin briefly hits $87K as weak US jobs data sends bond yields lower",
+      "url": "https://cointelegraph.com/markets/bitcoin-briefly-taps-87k-as-bond-yields-drop-on-low-us-nonfarm-payrolls-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Bitcoin climbed after weaker-than-expected payrolls pushed Treasury yields lower, but order-book resistance kept BTC from reaching new macro highs.",
+      "date": "2026-10-02T15:27:31.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "‘Euro stablecoin isn’t enough’: EU issuers make case for USD tokens",
+      "url": "https://cointelegraph.com/news/euro-stablecoin-not-enough-eu-case-usd-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "European issuers say Europe cannot ignore demand for dollar stablecoins as businesses seek USD liquidity for global payments and settlement.",
+      "date": "2026-10-02T14:12:48.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Furious debate about THORChain vs NEAR shows idealism has limits",
+      "url": "https://cointelegraph.com/magazine/furious-debate-about-thorchain-vs-near-shows-idealism-has-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "The furious debate over Bitget’s $387.7M of hacked funds comes down to whether ideals around “permissionless and decentralized” tech means never intervening — even if you could.",
+      "date": "2026-10-02T13:30:00.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Circle urges EU to revise stablecoin reserve rules in MiCA review",
+      "url": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Circle wants the EU to replace mandatory bank-deposit minimums with more flexible liquidity rules and preserve cross-border stablecoin issuance.",
+      "date": "2026-10-02T12:25:56.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
+      "url": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Tokenized stocks and ETFs on BNB Chain reached $1.1 billion as the broader market climbed to $3.7 billion, putting the network’s share at roughly 30%.",
+      "date": "2026-10-02T11:40:21.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Bitcoin treasuries may struggle to match Strategy, says Ammous",
+      "url": "https://cointelegraph.com/news/bitcoin-treasuries-struggle-strategy-says-ammous?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Strategy’s scale and cash reserves give it an edge over treasury rivals, according to Saifedean Ammous, author of “The Bitcoin Standard.”",
+      "date": "2026-10-02T10:54:33.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "CONNECT recap: Arthur Hayes on money printing, Wall Street moves onchain",
+      "url": "https://cointelegraph.com/news/connect-recap-arthur-hayes-money-printing-wall-street-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Arthur Hayes said money printing could lift crypto prices, while CONNECT Seoul speakers examined Wall Street’s competitive edge onchain.",
+      "date": "2026-10-02T10:29:35.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Bitcoin reaches for $87K as short liquidations top $120M",
+      "url": "https://cointelegraph.com/markets/bitcoin-87k-order-book-liquidity-wall-shifts-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Bitcoin buyers broke through a wall of ask liquidity to reach new October BTC price highs near $87,800, with the area immediately above now a new resistance hurdle.",
+      "date": "2026-10-02T09:37:06.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Aave founder says V3 unaffected after third-party adapter exploit drains $305K",
+      "url": "https://cointelegraph.com/news/aave-v3-third-party-adapter-exploit-305k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Aave founder Stani Kulechov said Aave v3 was unaffected after an attacker exploited a third-party adapter to drain about $305,000 from two Safe multisig wallets.",
+      "date": "2026-10-02T09:30:49.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Porsche’s ‘long haul’ Web3 project ends in less than four years",
+      "url": "https://cointelegraph.com/news/porsche-shuts-down-web3-project-911-nft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Porsche is winding down its Web3 project and Pioneers Circle community as trading activity in its 911 NFT collection falls sharply from early levels.",
+      "date": "2026-10-02T09:18:52.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Bitcoin ETFs kick off ‘Uptober’ with $103M inflow",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-meet-uptober-103-million-inflow-btc-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Bitcoin ETFs returned to inflows with $103 million, while Ether funds recorded a third straight day of net outflows.",
+      "date": "2026-10-02T08:20:08.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "South Korea crypto exchange profits fall 78% in H1 amid trading slump",
+      "url": "https://cointelegraph.com/news/south-korea-crypto-exchange-profits-fall-78-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "South Korean crypto exchange operating profits fell 78% in the first half of 2026 as trading volumes, market capitalization and customer deposits declined.",
+      "date": "2026-10-02T05:53:27.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    }
+  ]
+}
