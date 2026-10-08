@@ -1,0 +1,607 @@
+{
+  "generatedAt": "2026-10-08T23:20:49.338Z",
+  "itemCount": 60,
+  "failedSources": [],
+  "items": [
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express",
+      "url": "https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Despite ongoing bans, China has seen a big surge in peer-to-peer stablecoin use. New figures show South Korea’s $450B crypto economy is the largest in East Asia.",
+      "date": "2026-10-08T22:35:00.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
+      "url": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
+      "excerpt": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.",
+      "date": "2026-10-08T22:33:59.000Z",
+      "source": "TechCrunch",
+      "tagType": "tech",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "the-verge-aHR0cHM6Ly93d3cudG",
+      "title": "US plans livestream of execution by firing squad",
+      "url": "https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood",
+      "excerpt": "The United States' execution of the Fort Hood shooter will be livestreamed, anonymous officials from the Defense Department told the BBC and Associated Press. The planned execution of Nidal Hasan, the former US Army major convicted of killi",
+      "date": "2026-10-08T22:32:04.000Z",
+      "source": "The Verge",
+      "tagType": "tech",
+      "tag": "The Verge"
+    },
+    {
+      "id": "the-verge-aHR0cHM6Ly93d3cudG",
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "excerpt": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no ",
+      "date": "2026-10-08T21:53:51.000Z",
+      "source": "The Verge",
+      "tagType": "ai",
+      "tag": "The Verge"
+    },
+    {
+      "id": "the-verge-aHR0cHM6Ly93d3cudG",
+      "title": "SpaceX announces plan to become a ‘major mobile carrier’",
+      "url": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
+      "excerpt": "SpaceX has acquired a portfolio of low-band spectrum licenses - a move the company says \"will pave the way\" for its Starlink Mobile service to become a \"major\" US carrier. When the Federal Communications Commission signs off on the deal, Sp",
+      "date": "2026-10-08T21:23:31.000Z",
+      "source": "The Verge",
+      "tagType": "tech",
+      "tag": "The Verge"
+    },
+    {
+      "id": "the-verge-aHR0cHM6Ly93d3cudG",
+      "title": "AMD will bring FSR 4 to handhelds by the end of 2026",
+      "url": "https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026",
+      "excerpt": "It's already possible to get AMD's framerate-enhancing FSR 4 boost on handhelds as old as the Steam Deck - but in June, AMD reserved the right to disappoint handheld gamers by not officially bringing FSR 4 to older handhelds. Now, AMD consu",
+      "date": "2026-10-08T21:01:18.000Z",
+      "source": "The Verge",
+      "tagType": "tech",
+      "tag": "The Verge"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "excerpt": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+      "date": "2026-10-08T21:00:00.000Z",
+      "source": "TechCrunch",
+      "tagType": "tech",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "the-verge-aHR0cHM6Ly93d3cudG",
+      "title": "Apple will reportedly debut its first touchscreen MacBook in three weeks",
+      "url": "https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor",
+      "excerpt": "Apple is set to introduce a new MacBook Pro with a touchscreen and an updated iPad Mini \"on or around\" October 27th, Bloomberg reports. If true, that would put the event just two weeks after the October 13th event Apple announced today, whi",
+      "date": "2026-10-08T20:32:21.000Z",
+      "source": "The Verge",
+      "tagType": "tech",
+      "tag": "The Verge"
+    },
+    {
+      "id": "the-verge-aHR0cHM6Ly93d3cudG",
+      "title": "California is trying to shut down robot vs. human cage matches",
+      "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+      "excerpt": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a huma",
+      "date": "2026-10-08T20:06:56.000Z",
+      "source": "The Verge",
+      "tagType": "ai",
+      "tag": "The Verge"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "excerpt": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+      "date": "2026-10-08T20:04:26.000Z",
+      "source": "TechCrunch",
+      "tagType": "ai",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "the-verge-aHR0cHM6Ly93d3cudG",
+      "title": "ICE detainees in Georgia used the facility’s video calling software to expose the conditions inside",
+      "url": "https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video",
+      "excerpt": "Four men detained at an ICE detention center in rural Georgia used the facility's video conferencing software to expose both the conditions inside and President Donald Trump's hostile takeover of the immigration courts. In the five-minute v",
+      "date": "2026-10-08T19:45:00.000Z",
+      "source": "The Verge",
+      "tagType": "tech",
+      "tag": "The Verge"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Securitize stock jumps over 10% after launching tokenized US equities on Solana",
+      "url": "https://cointelegraph.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Securitize’s new offering gives eligible investors access to tokenized shares of 12 US companies, with dividend and voting rights and plans for round-the-clock trading.",
+      "date": "2026-10-08T19:31:38.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "the-verge-aHR0cHM6Ly93d3cudG",
+      "title": "Microsoft’s new Windows Search is exactly what Windows 11 needs",
+      "url": "https://www.theverge.com/news/1008320/microsoft-windows-search-overhaul-windows-11",
+      "excerpt": "Windows Search has been one of the most frustrating parts of Windows 11, and now Microsoft is addressing this with a significant overhaul. A new redesigned Windows Search is now in testing that is much faster, more capable, and a lot more m",
+      "date": "2026-10-08T19:30:21.000Z",
+      "source": "The Verge",
+      "tagType": "tech",
+      "tag": "The Verge"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "NFL backs New Jersey authorities in SCOTUS petition over Kalshi",
+      "url": "https://cointelegraph.com/news/nfl-new-jersey-supreme-court-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "According to the league, Kalshi and other prediction markets “threaten game integrity” because many event contracts are “highly susceptible to manipulation.”",
+      "date": "2026-10-08T19:17:18.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "the-verge-aHR0cHM6Ly93d3cudG",
+      "title": "Paramount is making a Cyberpunk 2077 film",
+      "url": "https://www.theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie",
+      "excerpt": "Cyberpunk 2077 is heading to the big screen. Deadline reports that CD Projekt Red's popular sci-fi video game franchise is being adapted into a live-action film by Paramount Pictures. There's no details just yet on when the film might premi",
+      "date": "2026-10-08T19:14:03.000Z",
+      "source": "The Verge",
+      "tagType": "tech",
+      "tag": "The Verge"
+    },
+    {
+      "id": "the-verge-aHR0cHM6Ly93d3cudG",
+      "title": "Tim Cook says ‘I’m not meddling’ in the new Apple CEO’s business",
+      "url": "https://www.theverge.com/news/1008279/apple-tim-cook-not-meddling-john-ternus-ceo",
+      "excerpt": "Tim Cook stepped down as Apple CEO in September, handing over the top job to former hardware chief John Ternus and taking an executive chairman role. Cook's still a visible representative of the company, having been recently photographed at",
+      "date": "2026-10-08T18:48:36.000Z",
+      "source": "The Verge",
+      "tagType": "tech",
+      "tag": "The Verge"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
+      "url": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
+      "excerpt": "A fictionalized Sam Bankman-Fried is coming to your TV screen on November 19.",
+      "date": "2026-10-08T18:30:00.000Z",
+      "source": "TechCrunch",
+      "tagType": "tech",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "date": "2026-10-08T18:29:33.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "excerpt": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+      "date": "2026-10-08T18:20:32.000Z",
+      "source": "TechCrunch",
+      "tagType": "ai",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "excerpt": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+      "date": "2026-10-08T18:19:45.000Z",
+      "source": "TechCrunch",
+      "tagType": "ai",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "excerpt": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+      "date": "2026-10-08T18:19:42.000Z",
+      "source": "TechCrunch",
+      "tagType": "ai",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "excerpt": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an ",
+      "date": "2026-10-08T18:18:00.000Z",
+      "source": "TechCrunch",
+      "tagType": "ai",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison",
+      "url": "https://cointelegraph.com/news/netflix-series-ftx-sam-bankman-fried-caroline-ellison?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Sam Bankman-Fried remains in federal prison following his 2023 conviction, while Caroline Ellison was released in January.",
+      "date": "2026-10-08T18:17:35.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "Anthropic changes usage policy to ban model abuse and election interference",
+      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "excerpt": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns,",
+      "date": "2026-10-08T18:16:24.000Z",
+      "source": "TechCrunch",
+      "tagType": "tech",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+      "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+      "excerpt": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+      "date": "2026-10-08T18:10:55.000Z",
+      "source": "TechCrunch",
+      "tagType": "ai",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "A startup founder who served time in prison is looking to court an untapped market: ex-cons",
+      "url": "https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/",
+      "excerpt": "Richard Bronson, a former Stratton Oakmont partner who served time in federal prison for securities violations, has launched Commissary Club, a startup that uses AI to help people leaving prison find jobs, housing, community, and even dates",
+      "date": "2026-10-08T16:45:00.000Z",
+      "source": "TechCrunch",
+      "tagType": "ai",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "IMF warns tokenized markets could amplify financial risks",
+      "url": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "The global financial institution found tokenized equity markets less liquid and more volatile than traditional markets, despite growing demand for 24/7 trading.",
+      "date": "2026-10-08T16:25:06.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "Natura’s $99 smart ring puts AI agents on your finger",
+      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+      "excerpt": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
+      "date": "2026-10-08T16:00:00.000Z",
+      "source": "TechCrunch",
+      "tagType": "ai",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+      "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "excerpt": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks ",
+      "date": "2026-10-08T16:00:00.000Z",
+      "source": "TechCrunch",
+      "tagType": "ai",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Bitcoin nears 3-week low as oil heads higher on Iran strike woes",
+      "url": "https://cointelegraph.com/markets/bitcoin-nears-3-week-low-as-oil-heads-higher-on-iran-strike-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Bitcoin dipped below $81,000 and oil prices gained after reports that military confrontation between the US and Iran could return.",
+      "date": "2026-10-08T15:55:55.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers",
+      "url": "https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/",
+      "excerpt": "The other firms being suspended from the program include Capgemini, Cognizant, HCL, Infosys, Tata, and Wipro.",
+      "date": "2026-10-08T15:42:26.000Z",
+      "source": "TechCrunch",
+      "tagType": "tech",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "US government moves $1B in seized Bitcoin after $770M transfers",
+      "url": "https://cointelegraph.com/news/us-government-seized-bitcoin-moved-one-transaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Blockchain analysts identified the US government wallet tied to the recovery of funds from the Bitfinex hack.",
+      "date": "2026-10-08T15:24:16.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "Elon Musk questions Ambani’s influence as Starlink India launch stalls",
+      "url": "https://techcrunch.com/2026/10/08/elon-musk-questions-ambanis-influence-as-starlink-india-launch-stalls/",
+      "excerpt": "“Is Ambani the real boss of India?” Elon Musk asked as he questioned why Starlink has yet to launch its satellite internet service in the country.",
+      "date": "2026-10-08T15:12:59.000Z",
+      "source": "TechCrunch",
+      "tagType": "tech",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "New York alleges TikTok gave teens, children a placebo safety feature instead of a real one",
+      "url": "https://techcrunch.com/2026/10/08/new-york-alleges-tiktok-gave-teens-children-a-placebo-safety-feature-instead-of-a-real-one/",
+      "excerpt": "New York’s lawsuit against the company is one of more than two dozen cases brought by states accusing the social media giant of designing its platform to encourage addictive use among children.",
+      "date": "2026-10-08T15:06:17.000Z",
+      "source": "TechCrunch",
+      "tagType": "tech",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "Asos confirms breach of customer data after hackers send rogue app notification",
+      "url": "https://techcrunch.com/2026/10/08/asos-confirms-breach-of-customer-data-after-hackers-send-rogue-app-notification/",
+      "excerpt": "The hackers alerted the fashion giant's customers through a push notification that said they had \"fully compromised\" the company's cloud storage.",
+      "date": "2026-10-08T15:01:15.000Z",
+      "source": "TechCrunch",
+      "tagType": "tech",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+      "excerpt": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
+      "date": "2026-10-08T15:00:00.000Z",
+      "source": "TechCrunch",
+      "tagType": "ai",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "Spotify is getting more serious about selling enterprise software",
+      "url": "https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/",
+      "excerpt": "The company launched technology.spotify.com, a new site that will make its internal tech available to outsiders.",
+      "date": "2026-10-08T14:34:33.000Z",
+      "source": "TechCrunch",
+      "tagType": "tech",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "Waymo locks in $5B loan from Blackstone, PIMCO to fuel robotaxi expansion",
+      "url": "https://techcrunch.com/2026/10/08/waymo-locks-in-5b-loan-from-blackstone-pimco-to-fuel-robotaxi-expansion/",
+      "excerpt": "This is the first time the Alphabet-owned company has turned to debt financing.",
+      "date": "2026-10-08T14:16:56.000Z",
+      "source": "TechCrunch",
+      "tagType": "ai",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "‘No going back’ for institutions moving toward tokenized onchain future, says Fidelity",
+      "url": "https://cointelegraph.com/news/institutions-tokenized-onchain-future-no-going-back-fidelity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Tokenization offers structural advantages to financial institutions and helps asset managers reach new markets, according to Fidelity’s head of digital asset strategists.",
+      "date": "2026-10-08T13:42:27.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Crypto lending rises again… but have they solved the risks?",
+      "url": "https://cointelegraph.com/magazine/crypto-lending-rises-again-but-have-they-solved-the-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Crypto lending has risen by 55% since July, but now has to deal with the dangers of AI assisted hacks, and risks cascading through interlinked protocols. Here’s how to stay safe.",
+      "date": "2026-10-08T13:30:00.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "EU lawmakers push crypto onto anti-corruption agenda",
+      "url": "https://cointelegraph.com/news/eu-lawmakers-crypto-anti-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "MEPs also called for stronger asset recovery, while the Commission plans to adopt its first anti-corruption strategy by the end of this year.",
+      "date": "2026-10-08T12:54:21.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Sui’s Hashi to launch with $500M in Bitcoin finance commitments",
+      "url": "https://cointelegraph.com/news/sui-hashi-bitcoin-finance-commitments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Hashi has more than $500M in commitments ahead of mainnet launch, while Anchorage offers institutions settlement and self-custody.",
+      "date": "2026-10-08T12:03:28.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "US government moves $770M of seized Bitcoin to Coinbase Prime",
+      "url": "https://cointelegraph.com/news/us-government-moves-770m-seized-bitcoin-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "The US government moved 9,261 Bitcoin to Coinbase Prime, including 2,456 BTC in newly discovered funds pointing to federal law enforcement seizures.",
+      "date": "2026-10-08T11:03:36.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Bitcoin monthly ‘new money’ inflows near $5B as BTC price rally stalls",
+      "url": "https://cointelegraph.com/markets/bitcoin-monthly-new-money-inflows-near-5b-as-btc-price-rally-stalls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Bitcoin’s realized cap rise in the 30 days to Oct. 5 came mostly from existing holders, not fresh capital, Glassnode data showed.",
+      "date": "2026-10-08T09:56:07.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "ESMA gives crypto firms 3 months to exit non-compliant stablecoins",
+      "url": "https://cointelegraph.com/news/esma-unauthorised-stablecoins-three-month-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "ESMA said EU crypto firms should halt services involving non-MiCA-compliant stablecoins, giving regulators three months to address existing exposures.",
+      "date": "2026-10-08T09:42:04.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Samsung Wallet to add USDC transfers for US Galaxy users in October",
+      "url": "https://cointelegraph.com/news/samsung-wallet-usdc-transfers-us-galaxy-users-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Eligible US Galaxy will be able to send USDC to crypto wallets and transfer funds to bank accounts in more than 60 countries.",
+      "date": "2026-10-08T08:24:24.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "NEAR enters crypto’s top 20 after 140% surge in 30 days",
+      "url": "https://cointelegraph.com/markets/near-enters-crypto-top-20-token-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "NEAR climbed into the top 20 cryptocurrencies by market capitalization, as NEAR Intents surpassed $31 billion in cumulative transaction volume.",
+      "date": "2026-10-08T08:17:14.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Standard Chartered plans institutional crypto custody in Singapore",
+      "url": "https://cointelegraph.com/news/standard-chartered-digital-asset-custody-services-singapore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Standard Chartered plans custody for cryptocurrencies, stablecoins and tokenized assets for institutional and eligible corporate clients in Singapore.",
+      "date": "2026-10-08T08:08:03.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Greece plans 10% capital gains tax on cryptocurrencies",
+      "url": "https://cointelegraph.com/news/greece-capital-gains-tax-cryptocurrencies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Greece’s draft bill proposes a 10% tax on crypto capital gains, with exemptions for annual gains of up to 500 euros and crypto-to-crypto swaps.",
+      "date": "2026-10-08T08:03:47.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "US Bitcoin ETFs shed $485M in biggest daily outflow since June",
+      "url": "https://cointelegraph.com/markets/bitcoin-etfs-outflow-largest-june-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Bitcoin ETFs erased October’s net inflows with $485 million in withdrawals, while Ether funds logged a seventh straight outflow session.",
+      "date": "2026-10-08T07:30:42.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Crypto’s heavy backing of Republicans alienated Democrats: Cuomo",
+      "url": "https://cointelegraph.com/news/cryptos-republican-spending-alienated-democrats-says-andrew-cuomo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Former New York Governor Andrew Cuomo urged the crypto industry to balance its support for Democrats and Republicans if they want federal crypto legislation passed.",
+      "date": "2026-10-08T05:06:51.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Crypto must cement adoption to withstand US policy shifts: Canton CEO",
+      "url": "https://cointelegraph.com/news/canton-ceo-crypto-adoption-us-policy-reversals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Canton CEO Yuval Rooz compared blockchain adoption to Uber and Airbnb, arguing that widespread adoption could help insulate it from potential policy reversals.",
+      "date": "2026-10-08T04:28:27.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
+      "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Ethereum researchers say crypto users should consider an orderly migration of funds to fresh addresses, warning AI could threaten private-key security before quantum computers do.",
+      "date": "2026-10-08T00:04:32.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Circle brings USDC, EURC payments to SAP customers through Tereina",
+      "url": "https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "The partnership with SAP-backed Tereina will let businesses send and receive Circle’s stablecoins from within the financial software they already use.",
+      "date": "2026-10-07T20:48:34.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Hunter Biden confirms LAPTOP token ‘not a rug pull,’ just trolling Trumps",
+      "url": "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-troll-no-rug-pull?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "“Trump’s coin was max extraction, and I wanted to troll every grift like it,“ said Hunter Biden in a breakdown of the memecoin launch and fallout.",
+      "date": "2026-10-07T18:00:10.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Sui tunnels hit 40.6M TPS in live AI agent test",
+      "url": "https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "The layer-1 blockchain said its programmable offchain tunnels reached the milestone during a live stress test designed to simulate high-frequency activity between AI agents.",
+      "date": "2026-10-07T17:46:59.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization",
+      "url": "https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "The agreement will explore a tenge-backed stablecoin pilot and a framework for tokenizing real-world assets as Kazakhstan expands its digital asset industry.",
+      "date": "2026-10-07T16:25:38.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "House Finance panel chair says regulator actions on crypto ‘fall short’ of CLARITY bill",
+      "url": "https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Representative French Hill hopes lawmakers could pass a cryptocurrency market structure bill before the next session of Congress in 2027 as SEC and CFTC actions weren’t sufficient.",
+      "date": "2026-10-07T16:06:03.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Coinbase brings global crypto derivatives liquidity to US with Deribit integration",
+      "url": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "US institutions will gain access to Deribit’s options and perpetual futures through Coinbase, with US retail options expected later this year.",
+      "date": "2026-10-07T15:36:11.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Bitcoin price drops to $82.7K October low as bond sell-off resumes on Iran nerves",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-drops-to-827k-october-low-as-bond-sell-off-resumes-on-iran-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Bitcoin fell below $83,000 to reach month-to-date lows as stocks reversed after all-time highs and bond yields spiked higher.",
+      "date": "2026-10-07T15:06:14.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    }
+  ]
+}
