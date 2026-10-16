@@ -1,11 +1,91 @@
 {
-  "generatedAt": "2026-10-16T16:39:11.537Z",
+  "generatedAt": "2026-10-16T21:07:11.341Z",
   "itemCount": 60,
   "failedSources": [],
   "items": [
     {
+      "id": "the-verge-aHR0cHM6Ly93d3cudG",
+      "title": "We can finally hear some of Wu-Tang Clan’s Once Upon A Time in Shaolin album",
+      "url": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
+      "excerpt": "Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out, which just published an episode all about",
+      "date": "2026-10-16T20:50:27.000Z",
+      "source": "The Verge",
+      "tagType": "tech",
+      "tag": "The Verge"
+    },
+    {
+      "id": "the-verge-aHR0cHM6Ly93d3cudG",
+      "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+      "url": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+      "excerpt": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technology does not relieve d",
+      "date": "2026-10-16T20:49:04.000Z",
+      "source": "The Verge",
+      "tagType": "tech",
+      "tag": "The Verge"
+    },
+    {
       "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
-      "title": "A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+      "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
+      "excerpt": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
+      "date": "2026-10-16T19:40:00.000Z",
+      "source": "TechCrunch",
+      "tagType": "tech",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "date": "2026-10-16T19:17:04.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "the-verge-aHR0cHM6Ly93d3cudG",
+      "title": "Why Apple is finally making its own smart home devices",
+      "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+      "excerpt": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video d",
+      "date": "2026-10-16T18:30:27.000Z",
+      "source": "The Verge",
+      "tagType": "tech",
+      "tag": "The Verge"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "excerpt": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "date": "2026-10-16T17:52:24.000Z",
+      "source": "TechCrunch",
+      "tagType": "ai",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
+      "url": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "At least two industry-aligned PACs have poured more than $52 million into opposing Sherrod Brown’s return to the Senate.",
+      "date": "2026-10-16T17:30:09.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Stablecoin remittances cost 84% less than traditional transfers, report finds",
+      "url": "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Borderless.xyz data shows major savings on cross-border business payments, with stablecoin transfers also settling faster than traditional international bank wires.",
+      "date": "2026-10-16T17:21:45.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
       "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
       "excerpt": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards s",
       "date": "2026-10-16T16:30:00.000Z",
@@ -147,7 +227,7 @@
       "id": "the-verge-aHR0cHM6Ly93d3cudG",
       "title": "The incredible flying Tesla Roadster is just for show",
       "url": "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk",
-      "excerpt": "Last night, Elon Musk gave the people what they want: a car driving vertically up a multi-story ramp, launching off the edge, executing a mid-air \"kickflip\" over a lineup of Teslas, and landing via cold-gas thrusters. That's what the people",
+      "excerpt": "Last night, Elon Musk gave the people what they want: a car driving vertically up a multistory ramp, launching off the edge, executing a midair \"kickflip\" over a lineup of Teslas, and landing via cold-gas thrusters. That's what the people w",
       "date": "2026-10-16T14:15:29.000Z",
       "source": "The Verge",
       "tagType": "tech",
@@ -185,16 +265,6 @@
     },
     {
       "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-10-16T13:56:15.000Z",
-      "source": "Cointelegraph",
-      "tagType": "crypto",
-      "tag": "Cointelegraph"
-    },
-    {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
       "title": "Ledger’s early implant warnings deserved more action, Karpelès says",
       "url": "https://cointelegraph.com/news/ledger-early-implant-warnings-mark-karpeles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "excerpt": "Ledger was contacted about tampered hardware wallets risks months before its latest security crisis, with former Mt. Gox CEO Mark Karpelès questioning its response.",
@@ -214,26 +284,6 @@
       "tag": "Cointelegraph"
     },
     {
-      "id": "the-verge-aHR0cHM6Ly93d3cudG",
-      "title": "This stretchy MagSafe storage pouch gives your phone a sizable trunk",
-      "url": "https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage",
-      "excerpt": "There's a new storage upgrade option for smartphones compatible with wireless chargers and other magnetic accessories, but it won't help if you've run out of room for apps, pics, and videos. The MagSafe Flex Pouch looks like a magnetic wall",
-      "date": "2026-10-16T13:33:21.000Z",
-      "source": "The Verge",
-      "tagType": "tech",
-      "tag": "The Verge"
-    },
-    {
-      "id": "the-verge-aHR0cHM6Ly93d3cudG",
-      "title": "iPhone Duo orders are already delayed into 2027",
-      "url": "https://www.theverge.com/tech/1012805/apple-iphone-duo-preorder-delay",
-      "excerpt": "Delivery estimates for the iPhone Duo slipped into next year in less than an hour after Apple opened preorders for it at 8AM ET on Friday. At the time of writing we are seeing late January delivery dates for every configuration on Apple's w",
-      "date": "2026-10-16T13:10:11.000Z",
-      "source": "The Verge",
-      "tagType": "tech",
-      "tag": "The Verge"
-    },
-    {
       "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
       "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
       "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
@@ -242,16 +292,6 @@
       "source": "TechCrunch",
       "tagType": "ai",
       "tag": "TechCrunch"
-    },
-    {
-      "id": "the-verge-aHR0cHM6Ly93d3cudG",
-      "title": "The Sony Xperia 10 VI won’t be getting a promised update to Android 17",
-      "url": "https://www.theverge.com/tech/1012789/sony-xperia-10-vi-smartphone-android-17-update-security",
-      "excerpt": "When the midrange Sony Xperia 10 VI was announced over two years ago with a Qualcomm Snapdragon 6 Gen 1 chipset and Android 14, Sony promised three major OS updates which would have included this year's Android 17 release. However, accordin",
-      "date": "2026-10-16T12:36:11.000Z",
-      "source": "The Verge",
-      "tagType": "tech",
-      "tag": "The Verge"
     },
     {
       "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
@@ -454,26 +494,6 @@
       "tag": "TechCrunch"
     },
     {
-      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
-      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-      "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-      "excerpt": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
-      "date": "2026-10-15T18:56:46.000Z",
-      "source": "TechCrunch",
-      "tagType": "ai",
-      "tag": "TechCrunch"
-    },
-    {
-      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
-      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
-      "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
-      "excerpt": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest quest",
-      "date": "2026-10-15T18:00:00.000Z",
-      "source": "TechCrunch",
-      "tagType": "tech",
-      "tag": "TechCrunch"
-    },
-    {
       "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
       "title": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
       "url": "https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -579,26 +599,6 @@
       "url": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "excerpt": "Starknet is asking STRK holders whether to explore becoming an independent layer-1 blockchain to reduce its dependence on Ethereum’s quantum-security upgrade timeline.",
       "date": "2026-10-15T10:22:00.000Z",
-      "source": "Cointelegraph",
-      "tagType": "crypto",
-      "tag": "Cointelegraph"
-    },
-    {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
-      "title": "Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B",
-      "url": "https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "excerpt": "Compromised suppliers, developer tools and infrastructure components outside security audits drove about 77% of the quarter’s total losses, according to Hacken.",
-      "date": "2026-10-15T10:00:00.000Z",
-      "source": "Cointelegraph",
-      "tagType": "crypto",
-      "tag": "Cointelegraph"
-    },
-    {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
-      "title": "Bitcoin dips to $80.1K as KOSPI closes at its lowest since April",
-      "url": "https://cointelegraph.com/markets/bitcoin-dips-korea-kospi-lowest-close-since-april?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "excerpt": "Bitcoin price action continued to see contagion from a Korean tech sell-off after the KOSPI Index fell 7.5% on Thursday.",
-      "date": "2026-10-15T09:48:07.000Z",
       "source": "Cointelegraph",
       "tagType": "crypto",
       "tag": "Cointelegraph"
