@@ -1,8 +1,98 @@
 {
-  "generatedAt": "2026-10-16T04:31:23.795Z",
+  "generatedAt": "2026-10-16T11:23:46.120Z",
   "itemCount": 60,
   "failedSources": [],
   "items": [
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins",
+      "url": "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Panelists at Cointelegraph’s Singapore CONNECT event explored opportunities in tokenized markets, the future of everyday stablecoin payments and the evolving landscape for crypto investors.",
+      "date": "2026-10-16T10:27:18.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "the-verge-aHR0cHM6Ly93d3cudG",
+      "title": "Time is a-changin’: say goodbye to the leap second",
+      "url": "https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change",
+      "excerpt": "An important change will soon be made to global timekeeping that aims to prevent potential infrastructure failures akin to the Y2K bug scare. On Thursday, the International Bureau of Weights and Measures (BIPM) voted to scrap the leap secon",
+      "date": "2026-10-16T10:00:25.000Z",
+      "source": "The Verge",
+      "tagType": "tech",
+      "tag": "The Verge"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant",
+      "url": "https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Bitcoin’s market cycle signals tool showed BTC price action copying history, possibly preparing to reclaim a key moving average before testing new highs.",
+      "date": "2026-10-16T09:22:13.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Capital B reports $78M H1 loss driven by Bitcoin impairment charge",
+      "url": "https://cointelegraph.com/news/capital-b-78m-h1-loss-bitcoin-impairment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Europe’s second-largest Bitcoin treasury raised $30 million and increased its Bitcoin holdings by 11% in the first half of 2026, despite reporting a $75 million Bitcoin impairment loss.",
+      "date": "2026-10-16T07:59:46.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Judge rejects CFTC, Gemini bid to undo $5M settlement",
+      "url": "https://cointelegraph.com/news/judge-rejects-cftc-gemini-5m-settlement-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Judge ruled changes in CFTC enforcement priorities and allegations of misconduct by its enforcement division were insufficient to overturn Gemini’s January 2025 settlement.",
+      "date": "2026-10-16T07:43:29.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "date": "2026-10-16T06:21:30.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "OpenAI model helped itself to testnet crypto, then kept quiet about it",
+      "url": "https://cointelegraph.com/news/openai-model-spent-testnet-eth-without-authorization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "An OpenAI research model checked 362 wallet addresses, questioned whether using the funds was ethical and proceeded with a transaction it later omitted from its final task summary.",
+      "date": "2026-10-16T06:11:22.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
+      "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
+      "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
+      "excerpt": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep.",
+      "date": "2026-10-16T05:16:46.000Z",
+      "source": "TechCrunch",
+      "tagType": "ai",
+      "tag": "TechCrunch"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Balaji’s ‘Singapore of social media’ begins with a wave of bans",
+      "url": "https://cointelegraph.com/news/balajis-singapore-of-social-media-begins-with-a-wave-of-bans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Network School founder Balaji Srinivasan wants to turn Farcaster into a haven for well-mannered techno-optimists. He had to do a bit of housekeeping first.",
+      "date": "2026-10-16T05:16:11.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
     {
       "id": "the-verge-aHR0cHM6Ly93d3cudG",
       "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
@@ -184,16 +274,6 @@
       "tag": "The Verge"
     },
     {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-10-15T19:37:27.000Z",
-      "source": "Cointelegraph",
-      "tagType": "crypto",
-      "tag": "Cointelegraph"
-    },
-    {
       "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
       "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
       "url": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
@@ -242,16 +322,6 @@
       "source": "TechCrunch",
       "tagType": "tech",
       "tag": "TechCrunch"
-    },
-    {
-      "id": "the-verge-aHR0cHM6Ly93d3cudG",
-      "title": "Sony made a $5,900 gold-plated Walkman MP3 player",
-      "url": "https://www.theverge.com/tech/1012200/sony-made-a-5900-gold-plated-walkman-mp3-player",
-      "excerpt": "Sony has announced a trio of new Walkman portable media players that start at an already absurd $1,899.99 for the NW-ZX900 and climb all the way up to $5,899 for the gold-plated NW-WM1ZM3. Sandwiched in between is the $2,999.99 Walkman NW-W",
-      "date": "2026-10-15T17:48:57.000Z",
-      "source": "The Verge",
-      "tagType": "tech",
-      "tag": "The Verge"
     },
     {
       "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
@@ -529,76 +599,6 @@
       "url": "https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "excerpt": "TeraWulf, Core Scientific, Cipher Mining and IREN each lost more than 12% as hotter inflation hit AI infrastructure companies.",
       "date": "2026-10-15T03:29:22.000Z",
-      "source": "Cointelegraph",
-      "tagType": "crypto",
-      "tag": "Cointelegraph"
-    },
-    {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
-      "title": "VanEck seeks to withdraw application for Lido staked Ether ETF",
-      "url": "https://cointelegraph.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "excerpt": "VanEck initially filed an S-1 registration statement for the exchange-traded fund in October last year.",
-      "date": "2026-10-15T01:21:52.000Z",
-      "source": "Cointelegraph",
-      "tagType": "crypto",
-      "tag": "Cointelegraph"
-    },
-    {
-      "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "excerpt": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
-      "date": "2026-10-15T01:01:32.000Z",
-      "source": "TechCrunch",
-      "tagType": "ai",
-      "tag": "TechCrunch"
-    },
-    {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
-      "title": "Polygon gains US payments licenses after closing Coinme deal",
-      "url": "https://cointelegraph.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "excerpt": "The deal gives Polygon access to 37 money transmitter licenses and 11 state exemptions.",
-      "date": "2026-10-15T00:55:21.000Z",
-      "source": "Cointelegraph",
-      "tagType": "crypto",
-      "tag": "Cointelegraph"
-    },
-    {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
-      "title": "Organizations join forces to fight Illinois crypto tax, after 6-month pause",
-      "url": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "excerpt": "Illinois officials already agreed to delay implementation of a 0.2% tax on crypto assets, but industry-aligned organizations are pushing for summary judgment on the merits.",
-      "date": "2026-10-14T20:56:22.000Z",
-      "source": "Cointelegraph",
-      "tagType": "crypto",
-      "tag": "Cointelegraph"
-    },
-    {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
-      "title": "EU authority classifies Circle’s USDC as ‘significant’ under MiCA",
-      "url": "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "excerpt": "The second-largest stablecoin by market cap will be overseen by French and EU authorities under its classification as a “significant e-money token.“",
-      "date": "2026-10-14T19:03:52.000Z",
-      "source": "Cointelegraph",
-      "tagType": "crypto",
-      "tag": "Cointelegraph"
-    },
-    {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
-      "title": "US authorities dismantle crypto scam network that stole tens of millions",
-      "url": "https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "excerpt": "Brooklyn prosecutors and the FBI seized 112 servers and shut down 241 websites linked to investment scams that targeted Russian-speaking Americans.",
-      "date": "2026-10-14T17:56:45.000Z",
-      "source": "Cointelegraph",
-      "tagType": "crypto",
-      "tag": "Cointelegraph"
-    },
-    {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
-      "title": "OCC report finds debanking efforts tied to crypto activities",
-      "url": "https://cointelegraph.com/news/occ-trump-debanking-crypto-activities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "excerpt": "The report from the US banking regulator did not include specific examples of debanking related to crypto, but mentioned it alongside ties to oil, gas and firearms.",
-      "date": "2026-10-14T17:03:20.000Z",
       "source": "Cointelegraph",
       "tagType": "crypto",
       "tag": "Cointelegraph"
