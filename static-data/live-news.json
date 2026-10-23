@@ -1,8 +1,98 @@
 {
-  "generatedAt": "2026-10-23T04:48:26.851Z",
+  "generatedAt": "2026-10-23T11:37:53.509Z",
   "itemCount": 60,
   "failedSources": [],
   "items": [
+    {
+      "id": "the-verge-aHR0cHM6Ly93d3cudG",
+      "title": "Startup equips genetically enhanced dogs with Palmer Luckey’s military tech",
+      "url": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs",
+      "excerpt": "A new Texas-based defense startup has a plan to improve military and police dogs in the US: it's going to genetically modify them and equip them with Anduril's military technology. Warhound is the brainchild of Anduril's Palmer Luckey and B",
+      "date": "2026-10-23T10:58:03.000Z",
+      "source": "The Verge",
+      "tagType": "tech",
+      "tag": "The Verge"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
+      "url": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "The attacker moved $744,000 in ETH and BNB to Tornado Cash after exploiting Cysic’s bridge to mint 10 million tokens on BNB Smart Chain.",
+      "date": "2026-10-23T10:13:06.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "the-verge-aHR0cHM6Ly93d3cudG",
+      "title": "No, the iPhone Duo isn’t a small phone",
+      "url": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini",
+      "excerpt": "When we published our review of the iPhone Duo, I got a lot of hopeful questions from my fellow Mini fans who took note of the cover screen's Mini-ish 5.4-inch size. \"Is this… a small phone that turns into a tablet?\" they asked. And I'm sor",
+      "date": "2026-10-23T10:00:00.000Z",
+      "source": "The Verge",
+      "tagType": "tech",
+      "tag": "The Verge"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Bybit secures first full Dubai license for spot trading services",
+      "url": "https://cointelegraph.com/news/bybit-first-full-dubai-spot-trading-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Bybit’s new VARA licence authorizes spot trading services in Dubai, but the exchange must complete additional regulatory requirements before launching.",
+      "date": "2026-10-23T09:50:04.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "HSBC launches Hong Kong dollar stablecoin for retail payments",
+      "url": "https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "HSBC is rolling out RedCoin wallets to PayMe users, with plans to support tokenized investment subscriptions and expand into institutional uses.",
+      "date": "2026-10-23T08:47:34.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
+      "url": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "BLOOM seeks to cut costs by helping financial institutions coordinate cross-border use of stablecoins and tokenized deposits.",
+      "date": "2026-10-23T07:15:53.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
+      "url": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Thursday’s withdrawals ended a three-day inflow streak and left US spot Bitcoin ETFs with $175 million in net outflows for October.",
+      "date": "2026-10-23T07:09:39.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "date": "2026-10-23T05:15:14.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
+    {
+      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
+      "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
+      "url": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "excerpt": "ChainSecurity said it identified 13 real-world examples of smart contracts potentially affected by Glamsterdam’s gas changes and is coordinating responsible disclosure with affected projects.",
+      "date": "2026-10-23T05:09:41.000Z",
+      "source": "Cointelegraph",
+      "tagType": "crypto",
+      "tag": "Cointelegraph"
+    },
     {
       "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
       "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
@@ -35,7 +125,7 @@
     },
     {
       "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
-      "title": "Switzerland approves first spot Bitcoin ETF for retail investors",
+      "title": "Switzerland’s first retail spot Bitcoin ETF targets November launch",
       "url": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "excerpt": "BIT Asset Management’s Bitcoin Fund ETF is expected to begin trading on SIX Swiss Exchange in November, with its public offering restricted to Switzerland.",
       "date": "2026-10-23T00:59:35.000Z",
@@ -224,26 +314,6 @@
       "tag": "The Verge"
     },
     {
-      "id": "the-verge-aHR0cHM6Ly93d3cudG",
-      "title": "The FCC is beginning to block gadgets with ‘foreign surveillance chips’",
-      "url": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
-      "excerpt": "On October 13th, Brendan Carr's FCC gave itself a new power - it can block gadgets for containing any computer chip made by any company on its list of potential threats to national security. Today, it's exercising that power for the first t",
-      "date": "2026-10-22T20:23:48.000Z",
-      "source": "The Verge",
-      "tagType": "tech",
-      "tag": "The Verge"
-    },
-    {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-10-22T20:09:59.000Z",
-      "source": "Cointelegraph",
-      "tagType": "crypto",
-      "tag": "Cointelegraph"
-    },
-    {
       "id": "techcrunch-aHR0cHM6Ly90ZWNoY3",
       "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
       "url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
@@ -262,16 +332,6 @@
       "source": "TechCrunch",
       "tagType": "tech",
       "tag": "TechCrunch"
-    },
-    {
-      "id": "the-verge-aHR0cHM6Ly93d3cudG",
-      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-      "excerpt": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you f",
-      "date": "2026-10-22T19:45:00.000Z",
-      "source": "The Verge",
-      "tagType": "tech",
-      "tag": "The Verge"
     },
     {
       "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
@@ -539,66 +599,6 @@
       "url": "https://cointelegraph.com/news/move-over-memecoins-crypto-meme-games-coming-bagholders-and-all?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "excerpt": "“Plenty will be ponzis. Plenty will get exploited. Plenty will insta die. There will be ridiculous gains, and people will get absolutely f***ing rinsed,” says Illuvium co-founder Kieran Warwick.",
       "date": "2026-10-22T05:35:38.000Z",
-      "source": "Cointelegraph",
-      "tagType": "crypto",
-      "tag": "Cointelegraph"
-    },
-    {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
-      "title": "PHP Foundation admits ‘structural failure’ delayed critical security fix",
-      "url": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "excerpt": "Government websites and online services were disrupted after concerns about a PHP bug that could allow attackers to take control of vulnerable servers.",
-      "date": "2026-10-22T00:44:00.000Z",
-      "source": "Cointelegraph",
-      "tagType": "crypto",
-      "tag": "Cointelegraph"
-    },
-    {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
-      "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
-      "url": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "excerpt": "Banking advocacy organizations are pushing back against the OCC’s finalized rules on a stablecoin law, arguing against changes to provisions on yield.",
-      "date": "2026-10-21T21:53:48.000Z",
-      "source": "Cointelegraph",
-      "tagType": "crypto",
-      "tag": "Cointelegraph"
-    },
-    {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
-      "title": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
-      "url": "https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "excerpt": "The investment will support Peso’s expansion across four Latin American markets, where it connects stablecoin payments to merchant services and local banking networks.",
-      "date": "2026-10-21T20:26:07.000Z",
-      "source": "Cointelegraph",
-      "tagType": "crypto",
-      "tag": "Cointelegraph"
-    },
-    {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
-      "title": "Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable",
-      "url": "https://cointelegraph.com/news/white-house-cybercrime-roundtable-donald-trump-crypto-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "excerpt": "The US President detailed many schemes defrauding Americans, but referred only to “cybercurrency“ related to scams.",
-      "date": "2026-10-21T20:19:39.000Z",
-      "source": "Cointelegraph",
-      "tagType": "crypto",
-      "tag": "Cointelegraph"
-    },
-    {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
-      "title": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
-      "url": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "excerpt": "The foundation called for regulation based on financial risks rather than technology, warning that overlapping rules could create uncertainty for crypto businesses across the EU.",
-      "date": "2026-10-21T17:57:39.000Z",
-      "source": "Cointelegraph",
-      "tagType": "crypto",
-      "tag": "Cointelegraph"
-    },
-    {
-      "id": "cointelegraph-aHR0cHM6Ly9jb2ludG",
-      "title": "UK financial watchdog opens consultations for DeFi guidance, crypto laws",
-      "url": "https://cointelegraph.com/news/uk-fca-consultations-defi-crypto-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "excerpt": "The UK Financial Conduct Authority consultations came just weeks after the agency opened applications for companies under its new crypto regulatory regime.",
-      "date": "2026-10-21T17:25:00.000Z",
       "source": "Cointelegraph",
       "tagType": "crypto",
       "tag": "Cointelegraph"
